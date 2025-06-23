@@ -42,8 +42,7 @@ This project showcases a complete **SQL + Power BI analysis pipeline** using a r
 
 ## 📊 Power BI Dashboard Highlights
 
-![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/57392304-b09f-449c-a8d8-30d17e35809b)
-) 
+![image](https://github.com/user-attachments/assets/d1b6cd7f-a0f0-428e-a6fc-2a9925204f2b)
 
 ### 💡 KPIs
 - **Total Revenue**
